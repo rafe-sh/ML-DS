@@ -1,2 +1,2 @@
 # ML-DS
-DS and ML notebook
+Data Science and Machine Learning notebook
